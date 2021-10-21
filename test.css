@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+
+.out {
+  display: table;
+  width: 100vw;
+  height: 100vh;
+}
+
+.out_img {
+  background-image: url('https://wallpapercave.com/wp/wp2981831.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.center {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.string {
+  font-size: 80px;
+  color: #FFFFFF;
+}
